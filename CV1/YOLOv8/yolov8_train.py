@@ -1,6 +1,16 @@
+from argparse import ArgumentParser
 from ultralytics import YOLO
 
-model = YOLO("yolov8s.pt")
-model.train(data="/home/soko/Documents/ITBA/CV1/YOLOv8/data/train_config.yaml", epochs=100, pretrained=True)
 
-model("/home/soko/Documents/ITBA/CV1/YOLOv8/data/train/images/20230520_173400.jpg", show=True)
+if __name__ == '__main__':
+
+    parser = ArgumentParser()
+    parser.add_argument('-c', '--config-file', required=True)
+    parser.add_argument('-e', '--epochs', type=int, required=True)
+    parser.add_argument('-m', '--model', default='yolov8s.pt')
+    args = parser.parse_args()
+
+
+    model = YOLO(args.model)
+    model.train(data=args.config_file, epochs=args.epochs, pretrained=True)
+
