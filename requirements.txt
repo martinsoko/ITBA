@@ -1,5 +1,3 @@
-# VOC Dataset en formato YOLO
-# https://www.kaggle.com/datasets/734b7bcb7ef13a045cbdd007a3c19874c2586ed0b02b4afc86126e89d00af8d2?resource=download
 ultralytics==8.0.105
 labelImg==1.8.6
 torchmetrics==0.11.4
