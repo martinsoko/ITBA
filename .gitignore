@@ -2,6 +2,10 @@
 CV1/YOLOv1/archive/
 CV1/YOLOv8/data/
 
+# Checkpoints
+*.pt
+**/runs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
