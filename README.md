@@ -98,7 +98,7 @@ Cada carpeta tiene los recursos que utilizaremos durante la clase, con exepción
 
 ### Clase 1
 
-**[Diapositivas](!https://docs.google.com/presentation/d/e/2PACX-1vQ4gKwn4zCEuaLozUmLpcBTPn0qT6CqALiOC2uH96MG1uxu3xN2-_LqkzG4b4mp87fBf4PnBOQAU4xt/pub?start=false&loop=false&delayms=3000)** 
+**[Diapositivas](https://docs.google.com/presentation/d/e/2PACX-1vQ4gKwn4zCEuaLozUmLpcBTPn0qT6CqALiOC2uH96MG1uxu3xN2-_LqkzG4b4mp87fBf4PnBOQAU4xt/pub?start=false&loop=false&delayms=3000)** 
 
 **[Dataset](https://www.kaggle.com/datasets/734b7bcb7ef13a045cbdd007a3c19874c2586ed0b02b4afc86126e89d00af8d2?resource=download)**
 
