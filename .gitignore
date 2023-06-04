@@ -1,6 +1,7 @@
 # Datasets
 CV1/YOLOv1/archive/
 CV1/YOLOv8/data/
+CV2/VOC2012/
 
 # Checkpoints
 *.pt

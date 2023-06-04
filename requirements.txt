@@ -1,3 +1,4 @@
 ultralytics==8.0.105
 labelImg==1.8.6
 torchmetrics==0.11.4
+jupyterlab==4.0.1
