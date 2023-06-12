@@ -104,5 +104,8 @@ Cada carpeta tiene los recursos que utilizaremos durante la clase, con exepción
 
 ### Clase 2
 
+**[Diapositivas](https://docs.google.com/presentation/d/e/2PACX-1vQO-NWil3OAbJUgY7C7TlnEnEgknPwVnJjEHM_uuVP1sO_8e6Zs2AZamCs0cXbWOKQxdXy0664EZGkJ/pub?start=false&loop=false&delayms=3000)**
+
+**[Dataset](http://host.robots.ox.ac.uk/pascal/VOC/)**
 
 ### Clase 3
