@@ -2,6 +2,7 @@
 CV1/YOLOv1/archive/
 CV1/YOLOv8/data/
 CV2/VOC2012/
+CV2/custom_masks/
 
 # Checkpoints
 *.pt
