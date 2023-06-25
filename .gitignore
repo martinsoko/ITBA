@@ -6,6 +6,10 @@ CV2/custom_masks/
 CV3/MNIST/
 CV3/celebA
 
+*.mp4
+*.pdf
+
+
 # Checkpoints
 *.pt
 **/runs/
